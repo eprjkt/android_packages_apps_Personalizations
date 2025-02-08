@@ -94,7 +94,7 @@
     	    android:defaultValue="18"
             settings:interval="5"
     	    android:min="10"
-    	    android:max="110"
+    	    android:max="180"
             lineage:position="bottom" />
 
     </PreferenceCategory>
